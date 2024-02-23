@@ -14,7 +14,7 @@ public class override {
             System.out.println("Meooww");
         }
     }
-    public static void main(String args[]) {
+    public void main(String args[]) {
         AnimalProperties Obj = new Cat();
         Obj.sound();
     }

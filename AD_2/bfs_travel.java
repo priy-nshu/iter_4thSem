@@ -16,6 +16,7 @@ public class bfs_travel {
     }
 
     public void addedge(int v, int n) {
+
         adj[v].add(n);
     }
 
