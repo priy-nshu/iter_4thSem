@@ -36,5 +36,6 @@ public class hash1{
         System.out.println("6th "+map);
         map1.replaceAll((K,V)->"pomogrante");
         System.out.println(map1);
+
     }
 }
